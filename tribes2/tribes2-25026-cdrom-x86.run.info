@@ -1,0 +1,8 @@
+Product: tribes2
+Version: 25026
+Description: Tribes 2 25026 Update
+Architecture: x86
+Libc: any
+Applies: 21570
+File: tribes2-25026-cdrom-x86.run
+Size: 93414 K
